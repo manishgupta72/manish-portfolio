@@ -196,7 +196,7 @@ export const experiences = [
     date: "April 2024 - Present",
     desc: "As a Junior Developer at RB TECH SOLUTIONS LLP, I’ll focus on delivering high-quality project work, reporting progress, managing code, and adhering to company guidelines. 🌟💻",
     skills: ["ReactJS", "Php", "Laravel", "Inertia", "Cpanel", "Etc"],
-    doc: "",
+    doc: ""
   },
   {
     id: 1,
@@ -206,7 +206,7 @@ export const experiences = [
     date: "Jan 2024 - March 2024",
     desc: "Designed responsive interfaces, ensuring optimal user experiences on various devices.Contributed to dynamic features using JavaScript and React.js, enhancing overall application functionality.Assisted in coding tasks and debugging, providing crucial support to developers.",
     skills: ["HTML", "CSS", "JavaScript", "React Js"],
-    doc: "",
+    doc: ""
   },
 ];
 
@@ -342,7 +342,7 @@ export const projects = [
       "PHP",
       "Bootstrap",
       "MySQL",
-      "API",
+      "API"
     ],
     category: "CRM",
     github: "#",
@@ -540,7 +540,7 @@ export const projects = [
       "This React CRUD web app facilitates seamless Create, Read, Update, and Delete operations. With an intuitive user interface, users can effortlessly manage data, add new entries, modify existing ones, and remove records. The app ensures a smooth and efficient experience for interacting with dynamic content in a web environment.",
     image:
       "https://i.pinimg.com/736x/2b/e2/fb/2be2fb313c9cdc524bf66afb1a75b911.jpg",
-    tags: ["React Js", , "JSON Server"],
+    tags: ["React Js","JSON Server"],
     category: "web app",
     github:
       "https://github.com/manishgupta72/CRUD-IN-REACT/tree/main/CRUD%20REACT",
