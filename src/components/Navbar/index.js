@@ -19,6 +19,7 @@ import { Bio } from "../../data/constants";
 import { Close } from "@mui/icons-material";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -27,7 +28,7 @@ const Navbar = () => {
       <NavbarContainer>
         {/* Logo Section */}
         <NavLogo to="/">
-          <a
+          <div
             style={{
               display: "flex",
               alignItems: "center",
@@ -36,7 +37,7 @@ const Navbar = () => {
             }}
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          </div>
         </NavLogo>
 
         {/* Mobile Menu Icon */}
