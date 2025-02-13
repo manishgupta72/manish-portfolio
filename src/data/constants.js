@@ -11,7 +11,7 @@ export const Bio = {
     "Junior Developer @RB TECH SOLUTIONS LLP | 🟨 JavaScript | 🐘 PHP | 🛠️ Laravel | ☕ Java | 🌱 Spring Boot | ☁️ AWS | 🗄️ MySQL | ⚛️ React.js | 🌐 MERN | 🔗 Git | 💻 Skilled in Web Development, Project Management",
   github: "https://github.com/manishgupta72/",
   resume:
-    "https://drive.google.com/file/d/1eO00uzxdZdr9PDUtnlImJYe_9459H-yh/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PS4IVVwbijs0cw3yaaTkcTqDA3SshNjg/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/manishgupta724464/",
   twitter: "https://x.com/manishgupta_72?t=-uqMr9RiS0gBjvuTmWLEjA&s=09",
   insta: "https://www.instagram.com/_manishvin7?igsh=NTRscmx4Z3dreHdl",
